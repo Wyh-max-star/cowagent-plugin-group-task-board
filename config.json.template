@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "auto_parse_group_task": false,
+  "max_tasks_show": 10,
+  "allow_private_chat": true,
+  "export_format": "markdown",
+  "timezone": "Asia/Shanghai"
+}
